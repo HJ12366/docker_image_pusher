@@ -1,7 +1,11 @@
 # 后面不加tag，默认是latest最新的
 
-ghcr.io/wg-easy/wg-easy:15  # latest 目前仍指向 v14 版本（当前主推使用这个 V15版本）
+# latest 目前仍指向 v14 版本（当前主推使用这个 V15版本）
+ghcr.io/wg-easy/wg-easy:15 
+
 linuxserver/wireguard:latest
 ngoduykhanh/wireguard-ui:latest
+
+# Strix sandbox
 ghcr.io/usestrix/strix-sandbox:latest
 
